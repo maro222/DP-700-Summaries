@@ -1,5 +1,5 @@
 ## 📘 Microsoft Fabric Data Engineer – Personal Study Notes
-## 📝 Context
+### 📝 Context
 
 These notes were created while I was preparing for the Microsoft Certified: Fabric Data Engineer Associate exam.
 They are my own personal, unprofessional notes that I wrote quickly while studying — mainly to help myself remember concepts, follow explanations from YouTube videos, and summarize what I read in Microsoft Learn.
