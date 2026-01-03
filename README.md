@@ -17,7 +17,7 @@ The material is based on three sources:
 ### 📂 Contents
 
 1. Data Governance and Some Concepts.pdf
-  General notes on governance principles in Fabric: ownership, stewardship, cataloging, lineage, data policies, and basic platform concepts.
+  General notes on governance principles in Fabric: ownership, data policies, and basic platform concepts.
 
 2. Data orchestration.pdf
   Covers orchestration inside Microsoft Fabric, including pipelines, triggers, activities, and common data engineering patterns.
